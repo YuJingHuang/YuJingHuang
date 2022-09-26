@@ -11,14 +11,12 @@
 >>大社區
 
 
-```
+---
 
-javascript code
-```javascript
-var s = "JavaScript syntax highlighting"
-alert(s);
-```
+- [ ] todo list
+- [ ] 2nd things
 
+---
 
 
 Colons can be used to aligan columns
