@@ -10,6 +10,25 @@
 >>
 >>大社區
 
+---
+
+Python code
+```python
+s="Python Syntax Highlighting"
+print s
+```
+---
+
+JavaScript code
+```js
+var s="JavaScript Syntax Highlighting";
+alert (s);
+```
+
+---
+
+
+
 
 ---
 
