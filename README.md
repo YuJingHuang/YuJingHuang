@@ -38,9 +38,7 @@ Colons can be used to align columns.
 
 
 ---
-There must be at east 3 dashes separating each header cell
-The outer pipes () are optional and you don tneed to make the
-raw Markdown line up prettily. You can also use inline Markdown.
+T
 
 
 ---
@@ -58,6 +56,11 @@ Colons can be used to aligan columns
 | 2 | ㄟㄟ| $9999|
 | 1 | ㄎㄎ| $0|
 
+---
+
+here must be at east 3 dashes separating each header cell
+The outer pipes () are optional and you don tneed to make the
+raw Markdown line up prettily. You can also use inline Markdown.
 
 
 | Markdown | Less | Pretty |
