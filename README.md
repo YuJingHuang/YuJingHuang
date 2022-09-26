@@ -11,6 +11,16 @@
 >>大社區
 
 
+```
+
+javascript code
+```javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
+
+
+
 Colons can be used to aligan columns
 | 表格    | Are      | 讚的     |
 | :------   | :------: | --------:|
