@@ -28,6 +28,19 @@ alert (s);
 ---
 
 
+Colons can be used to align columns.
+
+|Left-Aligned|Center Aligned|Right Aligned|
+|:-----------|:------------:|-----------:|
+|col 3 is|right-aligned|$1600|
+|col 2 is|Centered|$12|
+|zeber stipes|are neat|$1|
+
+
+---
+There must be at east 3 dashes separating each header cell
+The outer pipes () are optional and you don tneed to make the
+raw Markdown line up prettily. You can also use inline Markdown.
 
 
 ---
